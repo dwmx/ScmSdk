@@ -1,0 +1,7 @@
+/bin
+*.lnk
+*.exe
+*.sdf
+*.suo
+*.vcxproj
+*/Debug
